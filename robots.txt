@@ -1,0 +1,6 @@
+# 모든 검색 로봇의 접근을 허용합니다.
+User-agent: *
+Allow: /
+
+# 사이트맵 위치를 검색엔진에게 알려줍니다.
+Sitemap: https://rabitman76.github.io/sitemap.xml
